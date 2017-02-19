@@ -103,18 +103,8 @@ sudo apt-get update
 sudo apt-get -y upgrade
 ~~~
 
-TODO: The rest of this article
+TODO:
 
 ## Installing Samba (File Server)
 
 ## Installing the torrent daemon
-
-## Relax
-
-
-
-
-
-~~~ terminal
-$ ls -la 
-~~~
