@@ -7,12 +7,12 @@
 
 # Site settings
 title: Laurence Cartwright
-email: ltc@outlook.com
+email: laurence@lcartwright.com
 description: >	
-  My personal website, TODO: Website
+  A blog, must find something worth blogging about
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: renuzo
+twitter_username: lcartwrightuk
 github_username:  LCartwright
 
 # Build settings
